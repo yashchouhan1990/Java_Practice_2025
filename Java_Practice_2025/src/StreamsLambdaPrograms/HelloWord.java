@@ -1,4 +1,4 @@
-package stringConcepts;
+package StreamsLambdaPrograms;
 
 public class HelloWord {
 
